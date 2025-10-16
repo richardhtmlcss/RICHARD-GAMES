@@ -37,7 +37,7 @@
     margin-top: 15px;
 }
 .logo:hover{
-    background-image: url("images/logo_jaune.png");
+    background-image: url("logo_jaune.png");
 }
 
 /* logo */
@@ -705,4 +705,5 @@ a:hover{
 }
 
 /* phrase inc */
+
 
