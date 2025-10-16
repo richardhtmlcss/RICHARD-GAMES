@@ -30,14 +30,14 @@
 .logo{
     height: 43px;
     width: 68px;
-    background-image: url("images/logo_blanc.png");
+    background-image: url("logo_blanc.png");
     background-size: 100%;
     margin: 10px;
     margin-left: 20px;
     margin-top: 15px;
 }
 .logo:hover{
-    background-image: url("images/logo_jaune.png");
+    background-image: url("logo_jaune.png");
 }
 .divclickable{
     display: block;
@@ -222,7 +222,7 @@ a:hover{
 .fond{
     width: 100%;
     height: 850px;
-    background-image: url("images/1122.png");
+    background-image: url("1122.png");
     background-position: 50%;
     margin-top: 0%;
 }
@@ -234,42 +234,42 @@ a:hover{
     height: 250px;
     width: 250px;
     margin-top: 80px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .z{
     height: 250px;
     width: 250px;
     margin-top: 80px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .e{
     height: 250px;
     width: 250px;
     margin-top: 80px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .r{
     height: 250px;
     width: 250px;
     margin-top: 80px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .t{
     height: 250px;
     width: 250px;
     margin-top: 80px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .y{
     height: 250px;
     width: 250px;
     margin-top: 80px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .booster2{
@@ -279,37 +279,37 @@ a:hover{
 .q{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .s{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .d{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .f{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .g{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .h{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .booster3{
@@ -319,37 +319,37 @@ a:hover{
 .w{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .x{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .c{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .v{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .b{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .n{
     height: 250px;
     width: 250px;
-    background-image: url("images/booster.png");
+    background-image: url("booster.png");
     background-size: 100%
 }
 .a:hover{
@@ -620,7 +620,7 @@ a:hover{
 }
 .youtube{
     margin-top: 30px;
-    background-image: url(images/youtube.png);
+    background-image: url("youtube.png");
     height: 35px;
     width: 35px;
     background-size: 100%;
@@ -630,7 +630,7 @@ a:hover{
 }
 .xx{
     margin-top: 30px;
-    background-image: url(images/twitter.png);
+    background-image: url("twitter.png");
     height: 35px;
     width: 35px;
     background-size: 100%;
@@ -640,7 +640,7 @@ a:hover{
 }
 .facebook{
     margin-top: 30px;
-    background-image: url(images/facebook.png);
+    background-image: url("facebook.png");
     height: 35px;
     width: 35px;
     background-size: 100%;
@@ -650,7 +650,7 @@ a:hover{
 }
 .insta{
     margin-top: 30px;
-    background-image: url(images/insta.png);
+    background-image: url("insta.png");
     height: 35px;
     width: 35px;
     background-size: 100%;
@@ -660,7 +660,7 @@ a:hover{
 }
 .discord{
     margin-top: 30px;
-    background-image: url(images/discord.png);
+    background-image: url("discord.png");
     height: 35px;
     width: 35px;
     background-size: 100%;
@@ -681,12 +681,12 @@ a:hover{
 .logo2{
     height: 43px;
     width: 68px;
-    background-image: url("images/logo_gris.png");
+    background-image: url("logo_gris.png");
     background-size: 100%;
     margin-top: 30px;
 }
 .logo2:hover{
-    background-image: url("images/logo_blanc.png");
+    background-image: url("logo_blanc.png");
 }
 
 /* logo du bas */
@@ -707,5 +707,6 @@ a:hover{
     width: 800px;
     text-align: center;
 }
+
 
 /* phrase inc */
