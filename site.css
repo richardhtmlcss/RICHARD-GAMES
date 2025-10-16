@@ -6,11 +6,7 @@
 }
 
 /* pour que le header soit collé au plafond */
-@media screen and (max-width: 800px) {
-.barre {
-width: 100%;
-}
-}
+
 .barre{
     width: 100%;
     height: 80px;
@@ -709,6 +705,7 @@ a:hover{
 }
 
 /* phrase inc */
+
 
 
 
