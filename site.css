@@ -30,7 +30,7 @@
 .logo{
     height: 43px;
     width: 68px;
-    background-image: url("images/logo_blanc.png");
+    background-image: url("logo_blanc.png");
     background-size: 100%;
     margin: 10px;
     margin-left: 20px;
@@ -705,3 +705,4 @@ a:hover{
 }
 
 /* phrase inc */
+
