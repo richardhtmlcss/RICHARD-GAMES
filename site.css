@@ -218,7 +218,7 @@ a:hover{
 
 .haut{
     margin-top: 10%;
-    background-image: url("images/rose.png");
+    background-image: url("rose.png");
     margin-top: 0;
     width: 100%;
     height: 615px;
@@ -235,21 +235,21 @@ a:hover{
     margin-top: 50px;
     height: 400px;
     width: 400px;
-    background-image: url(images/fiora.png);
+    background-image: url("fiora.png");
     background-size: 100%
 }
 .deux{
     margin-top: 50px;
     height: 400px;
     width: 400px;
-    background-image: url(images/booster.png);
+    background-image: url("booster.png");
     background-size: 100%
 }
 .trois{
     margin-top: 50px;
     height: 400px;
     width: 400px;
-    background-image: url(images/rumble.png);
+    background-image: url("rumble.png");
     background-size: 100%
 }
 .un:hover{
@@ -347,7 +347,7 @@ a:hover{
 .nouvelle{
     width: 100%;
     height: 750px;
-    background-image: url("images/st1.png");
+    background-image: url("st1.png");
     background-position: 50%;
     margin-top: 0%;
 }
@@ -360,7 +360,7 @@ a:hover{
     width: 800px;
     margin-top: 7%;
     margin-left: 3%;
-    background-image: url(images/yas.png);
+    background-image: url("yas.png");
     background-size: 100%
 }
 .cinq{
@@ -375,7 +375,7 @@ a:hover{
     height: 350px;
     width: 800px;
     margin-top: 7%;
-    background-image: url(images/kaisa.png);
+    background-image: url("kaisa.png");
     background-size: 100%;
 }
 .sept{
@@ -384,7 +384,7 @@ a:hover{
     margin-right: 3%;
     margin-top: 7%;
     margin-left: 3%;
-    background-image: url(images/teemo.png);
+    background-image: url("teemo.png");
     background-size: 100%;
 }
 
@@ -616,7 +616,7 @@ a:hover{
 }
 .youtube{
     margin-top: 30px;
-    background-image: url(images/youtube.png);
+    background-image: url("youtube.png");
     height: 35px;
     width: 35px;
     background-size: 100%;
@@ -626,7 +626,7 @@ a:hover{
 }
 .xx{
     margin-top: 30px;
-    background-image: url(images/twitter.png);
+    background-image: url("twitter.png");
     height: 35px;
     width: 35px;
     background-size: 100%;
@@ -636,7 +636,7 @@ a:hover{
 }
 .facebook{
     margin-top: 30px;
-    background-image: url(images/facebook.png);
+    background-image: url("facebook.png");
     height: 35px;
     width: 35px;
     background-size: 100%;
@@ -646,7 +646,7 @@ a:hover{
 }
 .insta{
     margin-top: 30px;
-    background-image: url(images/insta.png);
+    background-image: url("insta.png");
     height: 35px;
     width: 35px;
     background-size: 100%;
@@ -656,7 +656,7 @@ a:hover{
 }
 .discord{
     margin-top: 30px;
-    background-image: url(images/discord.png);
+    background-image: url("discord.png");
     height: 35px;
     width: 35px;
     background-size: 100%;
@@ -677,12 +677,12 @@ a:hover{
 .logo2{
     height: 43px;
     width: 68px;
-    background-image: url("images/logo_gris.png");
+    background-image: url("logo_gris.png");
     background-size: 100%;
     margin-top: 30px;
 }
 .logo2:hover{
-    background-image: url("images/logo_blanc.png");
+    background-image: url("logo_blanc.png");
 }
 
 /* logo du bas */
@@ -705,5 +705,6 @@ a:hover{
 }
 
 /* phrase inc */
+
 
 
